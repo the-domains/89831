@@ -1,0 +1,44 @@
+layout_spectrum: 0.15325490053429608
+typography_spectrum: 0.1438536125194687
+color:
+  brandStrength: 0.41652098347027183
+  lightness: 0.9437663959261804
+  saturation: 0.9097251777274369
+  rhythmicContrast: 1
+  brandColors:
+    - '#0D4863'
+    - '#187BA3'
+    - '#747877'
+    - '#000000'
+    - '#00FFFF'
+author:
+  name: Krister Axel
+  url: 'http://axel.me/ashland-io-llc'
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/73bfff2f-012b-4280-9487-185c3e6de9cb.gif
+name: ' '
+url: 'http://ashland.io'
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+navigation:
+  - name: Contact
+    url: 'http://axel.me/ashland-io-llc'
+    type: external
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/0e4d0940-36b9-4253-92f7-dd33782e6942.png
+title: Ashland IO LLC
+content: []
+description: Cloud Development + Analytics
+purpose:
+  - type: internal
+    label: The Story
+    item: 7fbebdf7-4b8a-4e66-b1f9-ad41bee2557d
+  - type: internal
+    label: more info
+    item: b0642c5b-1b45-4f08-81c1-87f7cf678792
+github: true
