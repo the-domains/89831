@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: 'They are just reports, right? How complicated can it be?'
-dateModified: '2017-09-27T22:09:30.509Z'
-datePublished: '2017-09-27T22:09:31.525Z'
+dateModified: '2017-09-27T22:09:43.184Z'
+datePublished: '2017-09-27T22:09:44.457Z'
 title: Cloud Technology
 author: []
 publisher: {}
